@@ -1,4 +1,4 @@
-let users = ["Rita", "Samikshya", "salipa", "susmita", "dikshya"];
+let users = ["Rita", "Samikshya", "salipa", "susmita"];
 console.log(users);
 for (let i = 0; i <= users.length; i++) {
   console.log([i + 1], ".", users[i]);
